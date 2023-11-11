@@ -27,6 +27,6 @@ Run the application with this command:
 npm start
 ```
 Used:
-nodejs
-mongodb
+nodejs, 
+mongodb, 
 with ejs formats
