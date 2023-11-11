@@ -1,6 +1,6 @@
 # Gadgets of Galaxy
 
-Node.js powers this E-commerce site, seamlessly loading products from MongoDB. Users register/log in via Gmail, explore product details, and add items to their cart/wishlist. A streamlined, efficient, and secure shopping experience.
+An illustrative application showcasing an E-commerce website built using Node.js. The application retrieves products from a MongoDB database, presenting them on the loading page, which seamlessly directs users to the home page. Users can easily register and log in using Gmail credentials to explore and purchase products. Clicking on a product provides detailed information, including pricing. Users have the option to select items and add them to their shopping cart and wishlist for a personalized shopping experience.
 
 ## Import Data
 Included in this repository is a DB dump file. Import it into your MongoDB database and update the connection string in your code.
